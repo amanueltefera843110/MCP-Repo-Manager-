@@ -1,0 +1,13 @@
+{
+  "darkMode": "dark",
+  "scale": 0,
+  "mcpServers": {
+    "github-repo-creator": {
+      "command": "python3",
+      "args": ["/path/to/your/simple_mcp_server.py"],
+      "env": {
+        "GITHUB_TOKEN": "your_github_token_here"
+      }
+    }
+  }
+} 
